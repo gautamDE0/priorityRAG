@@ -55,6 +55,8 @@ Install dependencies :-
 
 pip install fastapi uvicorn python-dotenv google-auth google-auth-oauthlib google-api-python-client requests openai
 
+python -m venv .env (for venv in 'backend' Folder)
+
 __________________________________________
 
 Backend (Python) quickstart :-
